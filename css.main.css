@@ -1,0 +1,21 @@
+body {
+    font-family: Fantasy, sans-serif;
+    background-color: rgb(232, 232, 235);
+
+}
+
+
+
+tr{
+    text-decoration: none;
+    color: rgb(12, 1, 1);
+    font: size 30px;
+    border-style: dashed;
+   
+}
+
+h1{
+    border-style: double;
+    border-radius: 10px;
+    border-width: 5px;
+}
